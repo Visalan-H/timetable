@@ -124,5 +124,6 @@ Execute the program
 
 # OUPUT
 ### Server Output:
-![output](https://github.com/arbasil05/timetable/assets/144218037/8db85c0e-1193-4f02-8629-cbd328c5c3b6)
+![output](https://github.com/arbasil05/timetable/assets/144218037/0d3a2556-c141-46d7-9290-15e08d431d02)
+
 
