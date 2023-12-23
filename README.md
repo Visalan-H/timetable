@@ -126,4 +126,7 @@ Execute the program
 ### Server Output:
 ![output](https://github.com/arbasil05/timetable/assets/144218037/0d3a2556-c141-46d7-9290-15e08d431d02)
 
+# RESULT
+The time table has been created successfully.
+
 
