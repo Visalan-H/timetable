@@ -34,7 +34,7 @@ Execute the program
         <img src="logo.png" height="100" width="1000" align="center">
     </div>
 
-    <h4 align="center" width="700">SLOT TIME TABLE - ABDUR RAHMAN BASIL A H (23009177)</h4>
+    <h4 align="center" width="700">SLOT TIME TABLE - Visalan H (23007458)</h4>
     <table bgcolor="cyan" align="center" height="200">
         <tr bgcolor="Yellow">
             <th width="100">Day/Time</th>
@@ -124,7 +124,7 @@ Execute the program
 
 # OUTPUT
 ### Server Output:
-![output](https://github.com/arbasil05/timetable/assets/144218037/0d3a2556-c141-46d7-9290-15e08d431d02)
+![WhatsApp Image 2023-12-31 at 12 21 34_12553cf6](https://github.com/Visalan-H/timetable/assets/152077751/ffe22d21-c1a5-4b84-8804-2ad4bfc470d8)
 
 # RESULT
 The time table has been created successfully.
